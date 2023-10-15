@@ -1,0 +1,3 @@
+.terraform/
+terraform-remote/terraform.tfstate
+terraform-remote/.terraform
